@@ -1,5 +1,5 @@
 {
-  "name": "Jazz Passport OAuth Strategy Test",
+  "name": "jazzpass",
   "version": "1.0.0",
   "description": "exploring jazz oauth via express 4, passport",
   "main": "index.js",
