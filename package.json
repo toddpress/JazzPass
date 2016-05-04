@@ -1,7 +1,7 @@
 {
-  "name": "expresstst",
+  "name": "Jazz Passport OAuth Strategy TestS",
   "version": "1.0.0",
-  "description": "test of express framework 4",
+  "description": "exploring jazz oauth via express 4, passport",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
