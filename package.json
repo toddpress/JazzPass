@@ -1,6 +1,7 @@
 {
   "name": "jazzpass",
   "version": "1.0.0",
+  "private": true,
   "description": "exploring jazz oauth via express 4, passport",
   "main": "index.js",
   "scripts": {
